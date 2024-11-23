@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: 137501d1b513f884b840b03f0bdef9ea
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: earthsheen_6colors_256_GrafX2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a54ef4fabf0d7f4e834e6813dc25e59
+      internalID: -1149237070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthsheen_6colors_256_GrafX2_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461123762717b664bbfa46c9f12b6051
+      internalID: 1186382094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthsheen_6colors_256_GrafX2_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaccb0ae0f09814da7d809d26a2ee16
+      internalID: -1432697920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthsheen_6colors_256_GrafX2_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcfd5a78ae63de4399e12adcf7a7d46
+      internalID: -1809563511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthsheen_6colors_256_GrafX2_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1716d7ad9571e7241be85871474cd0a8
+      internalID: 815732629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthsheen_6colors_256_GrafX2_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ea9c7f7ec51c243a65a0fb83d3f724
+      internalID: 1506762471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      earthsheen_6colors_256_GrafX2_12: -90473427
+      earthsheen_6colors_256_GrafX2_3: 665847292
+      earthsheen_6colors_256_GrafX2_17: -1023279540
+      earthsheen_6colors_256_GrafX2_33: 1565384587
+      earthsheen_6colors_256_GrafX2_28: 78099300
+      earthsheen_6colors_256_GrafX2_35: -1367380555
+      earthsheen_6colors_256_GrafX2_38: 1136223143
+      earthsheen_6colors_256_GrafX2_6: -1149237070
+      earthsheen_6colors_256_GrafX2_15: -1458509203
+      earthsheen_6colors_256_GrafX2_20: 1830376484
+      earthsheen_6colors_256_GrafX2_19: 919219049
+      earthsheen_6colors_256_GrafX2_23: 1208962485
+      earthsheen_6colors_256_GrafX2_36: 1825813349
+      earthsheen_6colors_256_GrafX2_40: -1964815769
+      earthsheen_6colors_256_GrafX2_18: -1421657344
+      earthsheen_6colors_256_GrafX2_30: 42174453
+      earthsheen_6colors_256_GrafX2_29: 1325031972
+      earthsheen_6colors_256_GrafX2_41: -2064447950
+      earthsheen_6colors_256_GrafX2_2: -2032655141
+      earthsheen_6colors_256_GrafX2_22: 900079554
+      earthsheen_6colors_256_GrafX2_27: -1873772652
+      earthsheen_6colors_256_GrafX2_37: 716012096
+      earthsheen_6colors_256_GrafX2_4: 645474916
+      earthsheen_6colors_256_GrafX2_26: 1138612743
+      earthsheen_6colors_256_GrafX2_32: -1552968930
+      earthsheen_6colors_256_GrafX2_1: 1426022384
+      earthsheen_6colors_256_GrafX2_0: -320252086
+      earthsheen_6colors_256_GrafX2_8: -1432697920
+      earthsheen_6colors_256_GrafX2_7: 1186382094
+      earthsheen_6colors_256_GrafX2_9: -1809563511
+      earthsheen_6colors_256_GrafX2_21: 1653668834
+      earthsheen_6colors_256_GrafX2_10: 815732629
+      earthsheen_6colors_256_GrafX2_25: -111950628
+      earthsheen_6colors_256_GrafX2_39: 1665394543
+      earthsheen_6colors_256_GrafX2_31: -233960827
+      earthsheen_6colors_256_GrafX2_24: 1841628771
+      earthsheen_6colors_256_GrafX2_13: 1585439057
+      earthsheen_6colors_256_GrafX2_14: 199947709
+      earthsheen_6colors_256_GrafX2_34: -712159865
+      earthsheen_6colors_256_GrafX2_16: 514251122
+      earthsheen_6colors_256_GrafX2_5: -438070216
+      earthsheen_6colors_256_GrafX2_11: 1506762471
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
